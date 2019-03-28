@@ -4,6 +4,7 @@ import unittest
 import complejo
 import math
 
+
 class TestComplejo(unittest.TestCase):
     def test_conjugado(self):
         c = complejo.Complejo(2.0,5.0)
