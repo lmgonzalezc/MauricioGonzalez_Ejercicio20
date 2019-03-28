@@ -2,6 +2,7 @@ import numpy as np
 import unittest
 import complejo
 import math
+
 class Complejo():
     def __init__ (self, Imag, Real):
         self.imaginario=Imag
